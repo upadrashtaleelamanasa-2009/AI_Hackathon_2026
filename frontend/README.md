@@ -531,3 +531,15 @@ That immediately tells anyone visiting the repository that this wasn't just a pr
 
 ### 📄 Page 1
 ![Page 1](Screenshots/page1.png)
+
+## 🏆 Hackathon Experience
+
+We participated in the hackathon as a team and had the opportunity to present our project.
+
+### 📸 Hackathon Moments
+
+![Hackathon Photo 1](Event-photos/image1.jpg)
+
+![Hackathon Photo 2](Event-photos/image2.jpg)
+
+![Hackathon Photo 3](Event-photos/image3.jpg)
